@@ -15,6 +15,19 @@ computer, NAS, or server you control.
 Follow the [LightBites Server guides](https://lightbites.app/server) for Docker setup, HTTPS, first-run setup,
 connecting the LightBites apps, backups, updates, and troubleshooting.
 
+## Presets for your users
+
+Admins can give every user the same develop presets: open `/admin` on your server and choose **Presets**.
+
+- **Import presets** reads LightBites (`.lcpreset`), XMP and Lightroom (`.lrtemplate`) preset files and zips of them.
+- **Move** a preset to another group, or drag it onto one (or onto *Drop here to move it to a new group*).
+- **Enabled** switches a preset or a whole group off without deleting it: it goes from every device at the next sync and
+  stays on the page, so you can switch it on again.
+- **Built-in presets** hides presets LightBites ships with, for everyone.
+
+Users can favorite and hide shared presets on their devices, not change them. The
+[Manage presets for your users](https://lightbites.app/server/presets) guide has the steps.
+
 ## Privacy
 
 The server sends anonymous aggregate install and usage events, plus sanitized server error events, to the project's
