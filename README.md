@@ -10,6 +10,11 @@ computer, NAS, or server you control.
 - **macOS, Linux, and Windows:** download the matching zip from
   [GitHub Releases](https://github.com/elrumo/lightbites-server/releases).
 
+## Try the apps
+
+Join the LightBites beta on TestFlight to run the apps that connect to this server, on iPhone, iPad and Mac:
+[testflight.apple.com/join/J4GKdJVt](https://testflight.apple.com/join/J4GKdJVt).
+
 ## Guides
 
 Follow the [LightBites Server guides](https://lightbites.app/server) for Docker setup, HTTPS, first-run setup,
